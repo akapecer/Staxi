@@ -36,7 +36,7 @@ let bookingData = {};
 let languageData = {};
 
 // Endpoint Webhook per Twilio
-app.post('/webhook', (req, res) => {
+app.post('/whatsapp', (req, res) => {
     const body = req.body;
     const from = body.From;
     const message = body.Body.toLowerCase().trim();
