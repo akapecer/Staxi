@@ -25,12 +25,12 @@ Stefano Taxi Bot è un chatbot sviluppato con **WhatsApp Business API** per gest
 ### Installazione:
 1. Clona il repository:
     ```bash
-    git clone https://github.com/tuo-username/stefano-taxi-bot.git
+    git clone https://github.com/akapecer/Staxi.git
     ```
 
 2. Vai nella cartella del progetto:
     ```bash
-    cd stefano-taxi-bot
+    cd Staxi
     ```
 
 3. Installa le dipendenze:
